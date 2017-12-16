@@ -9,4 +9,7 @@ class Hello{
 	void newMethod(){
 }
 
+	void bar(){
+}
+
 }
