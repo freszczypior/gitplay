@@ -4,4 +4,7 @@ class Hello{
         System.out.println("Hallo World!!");
     }
 
+	void newMethod(){
+}
+
 }
